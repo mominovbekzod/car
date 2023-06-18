@@ -1,0 +1,16 @@
+<svg width="41" height="15" viewBox="0 0 41 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="41" height="15" fill="#1E1E1E"/>
+<g id="Home" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6342" transform="translate(-112 -43)" fill="white"/>
+<rect id="Rectangle 80" x="-112" y="-43" width="1440" height="726" fill="#0F0F0F"/>
+<g id="Frame 3">
+<line id="Line 3" x1="1.5" y1="1.5" x2="39.5" y2="1.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line id="Line 5" x1="1.5" y1="13.5" x2="39.5" y2="13.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6342" fill="white" transform="translate(-112 -43)"/>
+</clipPath>
+</defs>
+</svg>
